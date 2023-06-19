@@ -1,0 +1,44 @@
+body{
+    
+    background-color: ghostwhite;
+    background-size: cover;
+    border: none;
+    margin: 0%;
+}
+h1,h2,h3{
+    margin: 0%;
+    padding: 10px;
+    color: ;
+}
+header
+{
+    width: 100%;
+    height: 100%;
+    background-image: url(https://static.vecteezy.com/system/resources/previews/000/370/102/non_2x/vector-colorful-hand-painted-watercolor-background-green-watercolor-brush-strokes-abstract-watercolor-texture-and-background-for-design-watercolor-background-on-textured-paper.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-bottom: none;
+    padding: 0%;
+    
+    
+}
+main{
+    width: 100%;
+    height: 800px;
+    
+}
+
+.test
+{
+    width: 100%;
+    height: 100%;
+    background-image: url(https://wallpapercave.com/wp/wp3708740.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+footer
+{
+    width: 10%;
+    height: 10%;
+    background-color: darkcyan
+}
